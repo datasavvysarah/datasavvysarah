@@ -8,15 +8,23 @@
 🔍 Exploring how to turn raw data into reliable, usable insights
 
 🤝 Looking forward to collaborating on **open data projects**, especially in education, health, and social impact fields  
-✨ Recommended platform: [Kaggle](https://www.kaggle.com/) — let's build something impactful!
+✨ Recommended platform: [Kaggle](https://www.kaggle.com/)
+ — let's build something impactful!
 
-💬 Ask me about Excel tricks, SQL queries, or how I survived my final year as a Microbiology student 😂  
+💬 Ask me about Excel tricks, SQL queries, or how I survived my final year as a Microbiology student. 
+
 📫 How to reach me:  
-&nbsp;&nbsp;&nbsp;&nbsp;📧 Email – ukosarahiniobong@gmail.com  
-&nbsp;&nbsp;&nbsp;&nbsp;📱 LinkedIn – https://linkedin.com/in/datasavysarah
-&nbsp;&nbsp;&nbsp;&nbsp;📷 TikTok – https://tiktok.com/@datasavvysarah
+&nbsp;&nbsp;&nbsp;&nbsp;📧 
+- Email – ukosarahiniobong@gmail.com  
+&nbsp;&nbsp;&nbsp;&nbsp;📱 
+
+- LinkedIn – https://linkedin.com/in/datasavysarah
+&nbsp;&nbsp;&nbsp;&nbsp;📷 
+
+- TikTok – https://tiktok.com/@datasavvysarah
 
 🎙️ Fun fact: I run a data learning brand and love turning complex topics into relatable conversations.  
+
 ⚡ Bonus: I’m building my own little corner of the internet, one repo at a time!
 
 ---
