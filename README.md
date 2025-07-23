@@ -3,11 +3,15 @@
 💻 With a Passion about tech, creativity, and community.
 
 🎓 Currently diving deep into **Data Engineering** 
+
 📊 Background in **Data Analysis** with skills in Excel, SQL, and Power BI  
+
 🌱 Learning more every day about pipelines, ETL, and cloud tools  
+
 🔍 Exploring how to turn raw data into reliable, usable insights
 
 🤝 Looking forward to collaborating on **open data projects**, especially in education, health, and social impact fields  
+
 ✨ Recommended platform: [Kaggle](https://www.kaggle.com/)
  — let's build something impactful!
 
