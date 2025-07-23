@@ -14,11 +14,9 @@
 💬 Ask me about Excel tricks, SQL queries, or how I survived my final year as a Microbiology student. 
 
 📫 How to reach me:  
-&nbsp;&nbsp;&nbsp;&nbsp; 📧 Email – ukosarahiniobong@gmail.com  
-
-&nbsp;&nbsp;&nbsp;&nbsp; 📱 LinkedIn – https://linkedin.com/in/datasavysarah
-
-&nbsp;&nbsp;&nbsp;&nbsp;📷 TikTok – https://tiktok.com/@datasavvysarah
+- &nbsp;&nbsp;&nbsp;&nbsp; 📧 Email – ukosarahiniobong@gmail.com  
+- &nbsp;&nbsp;&nbsp;&nbsp; 📱 LinkedIn – https://linkedin.com/in/datasavysarah
+- &nbsp;&nbsp;&nbsp;&nbsp;📷 TikTok – https://tiktok.com/@datasavvysarah
 
 🎙️ Fun fact: I run a data learning brand and love turning complex topics into relatable conversations.  
 
