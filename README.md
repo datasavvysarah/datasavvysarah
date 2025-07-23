@@ -1,8 +1,8 @@
-### Hello there 👋 I'm Sarah Iniobong Uko but you can call me Savvysarah! 😄
+### Hello👋 I'm Sarah Iniobong Uko
 
-💻 Passionate about tech, creativity, and community.
+💻 With a Passion about tech, creativity, and community.
 
-🎓 Currently diving deep into **Data Engineering**  
+🎓 Currently diving deep into **Data Engineering** 
 📊 Background in **Data Analysis** with skills in Excel, SQL, and Power BI  
 🌱 Learning more every day about pipelines, ETL, and cloud tools  
 🔍 Exploring how to turn raw data into reliable, usable insights
