@@ -1,4 +1,4 @@
-### UKO SARAH INIOBONG / README.md
+#### UKO SARAH INIOBONG / README.md
 
 👋 Hi, I'm Sarah Uko, a Data Analyst/Engineer.
 
@@ -48,11 +48,12 @@
 - **SQL** • ⭐ 1
 
 ### ☕ **coffee-shop-database** • Public
+https://github.com/datasavvysarah/Coffee_sqldatabase
 *Comprehensive SQL database system for coffee shop operations with complex queries for business reporting and analytics.*
 - **SQL** • ⭐ 1
 
 ### 🛒 **e-commerce-database** • Public
-(https://github.com/datasavvysarah/ecommerce_database)
+https://github.com/datasavvysarah/ecommerce_database
 *Full-scale e-commerce database design with optimized schemas, relationship management, and business intelligence queries.*
 - **SQL** • ⭐ 1
 ---
