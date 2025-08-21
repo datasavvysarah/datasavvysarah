@@ -2,16 +2,17 @@
 
 👋 Hi, I'm Sarah Uko, a Data Analyst/Engineer.
 
-🌟 Fun fact: I'm a Data Engineering student from AltSchool Africa and also a certified data analyst who discovered my passion for data storytelling and database system structuring.
-- I love finding hidden patterns in messy datasets and creating visualizations that make complex information crystal clear.
+📎 Fun fact: I'm a Data Engineering student from AltSchool Africa and also a certified data analyst who discovered her passion for data storytelling and database system structuring.
 
-🚀 I walk through the path that leads to expert Data Analytics and Data Engineering.
+❤️ I love finding hidden patterns in messy datasets and creating visualizations that make complex information crystal clear.
+
+👍 I walk through the path that leads to expert Data Analytics and Data Engineering.
 
 🔧 I'm currently working with SQL, Python, Power BI, Excel, DAX, Power Query, and other relevant frameworks and libraries. My exceptional database design skills have significantly improved data workflows.
 
 💼 I'm open to contributing to data projects, analytics hackathons, internships, contracts, and full-time roles.
 
-🎯 Job Interests: Data Analyst, Data Engineer, BI Developer, or Database Developer.
+🗳 Job Interests: Data Analyst, Data Engineer, BI Developer, or Database Developer.
 
 🏆 My primary goals are building scalable data solutions, creating end-to-end data pipelines, and helping organizations make data-driven decisions that drive real business impact.
 
@@ -63,6 +64,7 @@ https://github.com/datasavvysarah/ecommerce_database
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="30" alt="Excel" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="30" alt="Power BI" />
