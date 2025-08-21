@@ -1,4 +1,4 @@
-# UKO SARAH INIOBONG / README.md
+### UKO SARAH INIOBONG / README.md
 
 👋 Hi, I'm Sarah Uko, a Data Analyst/Engineer.
 
@@ -52,6 +52,7 @@
 - **SQL** • ⭐ 1
 
 ### 🛒 **e-commerce-database** • Public
+(https://github.com/datasavvysarah/ecommerce_database)
 *Full-scale e-commerce database design with optimized schemas, relationship management, and business intelligence queries.*
 - **SQL** • ⭐ 1
 ---
