@@ -2,8 +2,8 @@
 
 👋 Hi, I'm Sarah Uko, a Data Analyst/Engineer.
 
-🌟 Fun fact: I'm a Microbiology student who
- discovered my passion for data storytelling - I love finding hidden patterns in messy datasets and creating visualizations that make complex information crystal clear.
+🌟 Fun fact: I'm a Data Engineering student from AltSchool Africa and also a certified data analyst who discovered my passion for data storytelling and database system structuring.
+- I love finding hidden patterns in messy datasets and creating visualizations that make complex information crystal clear.
 
 🚀 I walk through the path that leads to expert Data Analytics and Data Engineering.
 
