@@ -1,31 +1,59 @@
-### Hello👋 I'm Sarah Iniobong Uko
+# UKO SARAH INIOBONG / README.md
 
-💻 With a Passion about tech, creativity, and community.
+👋 Hi, I'm Sarah Uko, a Data Analyst/Engineer.
 
-🎓 Currently diving deep into **Data Engineering** 
+🌟 Fun fact: I'm a Microbiology student who
+ discovered my passion for data storytelling - I love finding hidden patterns in messy datasets and creating visualizations that make complex information crystal clear.
 
-📊 Background in **Data Analysis** with skills in Excel, SQL, and Power BI  
+🚀 I walk through the path that leads to expert Data Analytics and Data Engineering.
 
-🌱 Learning more every day about pipelines, ETL, and cloud tools  
+🔧 I'm currently working with SQL, Python, Power BI, Excel, DAX, Power Query, and other relevant frameworks and libraries. My exceptional database design skills have significantly improved data workflows.
 
-🔍 Exploring how to turn raw data into reliable, usable insights
+💼 I'm open to contributing to data projects, analytics hackathons, internships, contracts, and full-time roles.
 
-🤝 Looking forward to collaborating on **open data projects**, especially in education, health, and social impact fields  
+🎯 Job Interests: Data Analyst, Data Engineer, BI Developer, or Database Developer.
 
-✨ Recommended platform: [Kaggle](https://www.kaggle.com/)
- — let's build something impactful!
+🏆 My primary goals are building scalable data solutions, creating end-to-end data pipelines, and helping organizations make data-driven decisions that drive real business impact.
 
-💬 Ask me about Excel tricks, SQL queries, or how I survived my final year as a Microbiology student. 
+📫 How to reach me?: [Gmail](mailto:ukosarahiniobong@gmail.com), [LinkedIn](https://linkedin.com/in/yourprofile), [Portfolio](https://bit.ly/sarahukoportfolio).
 
-📫 How to reach me:  
-- &nbsp;&nbsp;&nbsp;&nbsp; 📧 Email – ukosarahiniobong@gmail.com  
-- &nbsp;&nbsp;&nbsp;&nbsp; 📱 LinkedIn – https://linkedin.com/in/datasavysarah
-- &nbsp;&nbsp;&nbsp;&nbsp;📷 TikTok – https://tiktok.com/@datasavvysarah
+---
 
-🎙️ Fun fact: I run a data learning brand and love turning complex topics into relatable conversations.  
+## Sarah Uko's Analytics Stats
 
-⚡ Bonus: I’m building my own little corner of the internet, one repo at a time!
+⭐ **Total Projects Completed:** 6+  
+⏰ **Total Analysis Hours:** 500+  
+🔄 **ETL Pipelines Built:** 8  
+❓ **Complex SQL Queries:** 50+  
+📅 **Active Coding (this year):** 12 months
 
+## Most Used Technologies
+
+- **Power BI** 35.2%
+- **SQL Server** 28.1%
+- **Python** 21.8%
+- **Excel/DAX** 14.3%
+- **Power Query** 16.6%
+
+---
+
+## Pinned
+
+### 📊 **youtube-metrics** • Public
+*Led a cross-functional team analyzing YouTube trending data with advanced Power BI dashboards and automated ETL processes.*
+- **Power BI** • ⭐ 1
+
+### 📦 **supply-chain-analysis** • Public  
+*Advanced SQL analysis of supply chain operations with performance metrics, lead times, and operational insights for stakeholders.*
+- **SQL** • ⭐ 1
+
+### ☕ **coffee-shop-database** • Public
+*Comprehensive SQL database system for coffee shop operations with complex queries for business reporting and analytics.*
+- **SQL** • ⭐ 1
+
+### 🛒 **e-commerce-database** • Public
+*Full-scale e-commerce database design with optimized schemas, relationship management, and business intelligence queries.*
+- **SQL** • ⭐ 1
 ---
 
 ### 🛠️ Tech Stack
