@@ -22,11 +22,11 @@
 
 ## Sarah Uko's Analytics Stats
 
-⭐ **Total Projects Completed:** 6+  
-⏰ **Total Analysis Hours:** 500+  
+⭐ **Total Projects Completed:** 8+  
+⏰ **Total Analysis Hours:** 1200+  
 🔄 **ETL Pipelines Built:** 8  
-❓ **Complex SQL Queries:** 50+  
-📅 **Active Coding (this year):** 12 months
+❓ **Complex SQL Queries:** 250+  
+📅 **Active Coding (this year):** 13 months
 
 ## Most Used Technologies
 
