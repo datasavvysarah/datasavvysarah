@@ -16,7 +16,7 @@
 
 🏆 My primary goals are building scalable data solutions, creating end-to-end data pipelines, and helping organizations make data-driven decisions that drive real business impact.
 
-📫 How to reach me?: [Gmail](mailto:ukosarahiniobong@gmail.com), [LinkedIn](https://www.linkedin.com/in/datasavysarah/), [Portfolio](https://bit.ly/sarahukoportfolio).
+📫 How to reach me?: [Gmail](mailto:ukosarahiniobong@gmail.com), [LinkedIn](https://www.linkedin.com/in/datasavysarah/), [Portfolio](https://datasavvysarah.github.io/SarahTheAnalyst.github.io/index.html).
 
 ---
 
