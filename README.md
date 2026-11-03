@@ -16,16 +16,16 @@
 
 🏆 My primary goals are building scalable data solutions, creating end-to-end data pipelines, and helping organizations make data-driven decisions that drive real business impact.
 
-📫 How to reach me?: [Gmail](mailto:ukosarahiniobong@gmail.com), [LinkedIn](https://www.linkedin.com/in/datasavysarah/), [Portfolio](https://datasavvysarah.github.io/SarahTheAnalyst.github.io/index.html).
+📫 How to reach me?: [Gmail](mailto:ukosarahiniobong@gmail.com), [LinkedIn](https://www.linkedin.com/in/datasavysarah/), [Portfolio](https://sarahdataportfolio.vercel.app/).
 
 ---
 
 ## Sarah Uko's Analytics Stats
 
-⭐ **Total Projects Completed:** 14+  
-⏰ **Total Analysis Hours:** 2900+  
-🔄 **ETL Pipelines Built:** 8  
-❓ **Complex SQL Queries:** 550+  
+⭐ **Total Projects Completed:** 20+  
+⏰ **Total Analysis Hours:** 3500+  
+🔄 **ETL Pipelines Built:** 10  
+❓ **Complex SQL Queries:** 750+  
 📅 **Active Coding:** 16 months
 
 ## Most Used Technologies
